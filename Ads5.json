@@ -26,58 +26,58 @@
  
   "MyList": [
     {
-      "title": "------",
+      "title": "Guide to Basics",
       "image": "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/1.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Main Menu: The main menu allows you to select your game mode, customize your character, and access the options menu.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/1.1.png",
-        "2- +++++++",
+        "2- Weapon Customization: You can customize your weapons by selecting them in the inventory menu and then choosing from a variety of modifications.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/1.2.png",
-        "3- ++++++++",
+        "3- Character Customization: You can customize your character's appearance and skills by selecting them in the inventory menu and then choosing from a variety of options.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/1.3.png"
           
       ]
     },
     {
-      "title": "------",
+      "title": "Walkthroughs",
       "image": "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/2.png",
       "native" : true,
        "paragraph": [
-        "1- ++++++++",
-        "2- ++++++++",
+        "1- No Room for the Wicked: This is a stealth mission in which you must enter a bank and steal a valuable item. The following steps can help you complete the mission.",
+        "2- Enter the bank. \n Disable the cameras.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/2.1.png",
-        "3- ++++++++",
+        "3- Find the security room and hack the computer. \n Disable the alarms.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/2.2.png",
-        "4- +++++++++"
+        "4- Find the vault and drill it open. \n Retrieve the item and escape."
       ]
     },
     {
-      "title": "-----",
+      "title": "Progression",
       "image": "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/3.png",
       "native" : true,
       "paragraph": [
-        "1- +++++++",
+        "1- Character Progression: Character progression has changed in Payday 3.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/3.1.png",     
-        "2- +++++++",
-        "3- +++++++",
+        "2- You can now earn experience points by completing missions and use them to unlock new skills and abilities",
+        "3- The initial 8 heists will all be located in New York, with two of them being located in a Downtown NYC bank",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/3.2.png",
-        "4- +++++++"
+        "4- It is important to note that the information available on the specific heists that will be included in Payday 3 is limited at this time."
       ]
     
         
     },
     {
-      "title": "---------",
+      "title": "Tips and Tricks",
       "image": "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/4.jpg",
       "native" : true,
       "paragraph": [
-        "1- +++++",
+        "1- Beta Tips and Tricks: Here are some tips and tricks for beginners playing the Payday 3 beta",
        "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/4.1.jpg",
-        "2- +++++",
-        "3- +++++",
+        "2- Stick together with your team. \n Use cover to avoid taking damage.",
+        "3- Use your skills and abilities to gain an advantage.\n Plan your heist carefully before starting.",
         "https://raw.githubusercontent.com/fluxappsltd/PayDay3/main/4.2.jpg",
-        "4- ++++++"
+        "4- Solo Stealth Guide: Here is a video guide to completing the No Rest For The Wicked mission in Payday 3"
         
       ]
         
