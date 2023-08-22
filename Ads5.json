@@ -2,25 +2,25 @@
     
   "AppRedirect": {
     "status"        : false,
-    "redirect_link" : "https://play.google.com/store/apps/details?id=com.esota.studio.among.makers"
+    "redirect_link" : "https://play.google.com/store/apps/details?id=com.fluxAppsltd.games.payday3.guide"
   },
   
   "AdsController": {
       
-    "BannerNetwork"              : "admob",
-    "InterstitialNetwork"        : "admob",
-    "NativeNetwork"              : "admob",
+    "BannerNetwork"              : "applovin",
+    "InterstitialNetwork"        : "applovin",
+    "NativeNetwork"              : "applovin",
     
     "IntervalClick"          : 1,
     "AdMob_ID"               : "pub-3940256099942544",
-    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"           : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"           : "ca-app-pub-1809947459505682/4750577537",
+    "AdMob_InterstitialAd"   : "ca-app-pub-1809947459505682/3662262119",
+    "AdMob_Native"           : "ca-app-pub-1809947459505682/3880348991",
     
     
-    "Applovin_Banner"         : "0000",
-    "Applovin_InterstitialAd" : "00000",
-    "Applovin_Native"         : "000000"
+    "Applovin_Banner"         : "e81fdda938aa4ae4",
+    "Applovin_InterstitialAd" : "ee5a50a2f5dddc38",
+    "Applovin_Native"         : "758d3afa650fd3a2"
   },
   
  
